@@ -69,7 +69,7 @@ Clone this repository to your desired folder:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]([https://miooleen.github.io/Capstone-project/](https://miooleen.github.io/bookstore/))
+- [Live Demo Link]([https://miooleen.github.io/bookstoreClasses/])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
