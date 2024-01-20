@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+section {
+  margin: 1rem auto;
+  max-width: 400px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#bookContainer {
+  margin-top: 1rem;
+  border: 1px solid black;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  align-items: center;
+}
+
+.container:nth-child(odd) {
+  background-color: lightgrey;
+}
+
+.removeBtn {
+  padding: 0.2rem;
+}
+
+.line {
+  margin: 1rem auto;
+  width: 4rem;
+  height: 3px;
+  background-color: black;
+}
+
+#inputTitle {
+  margin-top: 1rem;
+  width: 100%;
+  padding: 0.3rem;
+}
+
+#inputAuthor {
+  width: 100%;
+  padding: 0.3rem;
+}
+
+.button {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#addBtn {
+  padding: 0.2rem 0.3rem;
+}
